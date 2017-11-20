@@ -1,0 +1,1 @@
+$(function(){$(window).scroll(function(){jQuery(this).scrollTop()>400?($(".shoujiyaojiang").show(),$(".nizaizhao").show()):($(".shoujiyaojiang").hide(),$(".nizaizhao").hide())})});
